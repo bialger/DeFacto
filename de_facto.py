@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Программа написана Alexander Bigulov 05.10.2018. Версия 1.0 release
+#Программа написана Alexander Bigulov 05.10.2018. Версия 2.0 release
 def openfile (file, atr):  #Открываем файлик
     handle = open(file, atr)
     data = handle.readlines()
